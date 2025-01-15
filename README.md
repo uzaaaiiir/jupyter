@@ -1,7 +1,8 @@
 # Jupyter Notebooks 
 
 ## Numpy
-Based on YouTube Series [Numpy for ML](https://www.youtube.com/playlist?list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK) and [NumPy for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=7s)
+Based on YouTube Series [Numpy for ML](https://www.youtube.com/playlist?list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK)
+- [Numpy](/numpy/1_numpy_tutorial.ipynb)
 
 ## Pandas 
 Based on YouTube Series [Pandas](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=Q78RCBoW8DaK-DjD)
