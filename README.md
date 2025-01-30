@@ -15,3 +15,7 @@ Based on YouTube Series [Matplotlib](https://www.youtube.com/playlist?list=PL-os
 ## Python for Data Analysis
 Based on Book, 'Python for Data Analysis' by Wes McKinney.
 - [IPython Basics](/python_for_data_analysis/2_ipython_basics.ipynb)
+
+## Practice
+- [Titanic Dataset](/practice/titanic.ipynb)
+- [Census Dataset](/practice/census.ipynb)
